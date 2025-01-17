@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/content_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/content_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.9"
+        android:hint="@string/city_placeholder"
+        android:padding="20dp"
+        android:text="@string/city_name_label"
+        android:textSize="30sp" />
+
+    <ImageButton
+        android:id="@+id/delete_button"
+        android:layout_width="wrap_content"
+        android:layout_height="83dp"
+        android:layout_weight="0.1"
+        android:backgroundTint="#E95656"
+        android:contentDescription="@string/delete_button_desc"
+        app:srcCompat="@android:drawable/ic_menu_delete" />
+</LinearLayout>
