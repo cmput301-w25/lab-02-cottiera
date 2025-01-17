@@ -3,16 +3,13 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Alastair Cottier`
+- **CCID:** `cottier`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+[SimpleAdapter in Android with Example](https://www.geeksforgeeks.org/simpleadapter-in-android-with-example/)
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+N/A
